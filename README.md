@@ -1,9 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm a developer passionate about building amazing software.
 
 ## 🛠️ Tech Stack
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,7 +30,7 @@ I'm a developer passionate about building amazing software.
 - [Email](mailto:leo8689123@gmail.com)
 
 ---
-<p align="center">Generated with ❤️ Me</p>
+<p align="center">Generated with ❤️ MoonJunSung</p>
 
 <!--
 **MoonJunSung/MoonJunSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
