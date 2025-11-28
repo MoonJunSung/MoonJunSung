@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a developer passionate about building amazing software.
+Moonjunsung 입니다. 주로 HTML과 Python과 Javascript를 사용하고 있습니다.
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -13,10 +13,6 @@ I'm a developer passionate about building amazing software.
 </p>
 
 ## 📈 GitHub Stats
-
-<!-- 
-🚨 IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username in the URLs below! 
--->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoonJunSung&show_icons=true&theme=radical" height="180" alt="stats graph"  />
