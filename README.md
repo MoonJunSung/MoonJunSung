@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Moonjunsung 입니다. 주로 HTML과 Python과 Javascript를 사용하고 있습니다.
+Moonjunsung 입니다. 주로 HTML과 Javascript를 사용하고 있습니다.
 
 ## 🛠️ Tech Stack
 <p align="left">
